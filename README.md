@@ -11,3 +11,4 @@ Following pages are part of this application "
 3. Cart
 4. Favorites
 5. Buy a product
+6. Users can return a product
