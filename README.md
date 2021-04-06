@@ -12,3 +12,4 @@ Following pages are part of this application "
 4. Favorites
 5. Buy a product
 6. Users can return a product
+7. Order history is also available
