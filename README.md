@@ -10,3 +10,4 @@ Following pages are part of this application "
 2. Individual Item
 3. Cart
 4. Favorites
+5. Buy a product
