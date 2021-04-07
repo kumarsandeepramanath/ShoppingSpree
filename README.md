@@ -15,3 +15,4 @@ Following features are part of this application :
 7. Order history is also available
 8. User Profile would be available
 9. Search for products
+10. Filtering of products
