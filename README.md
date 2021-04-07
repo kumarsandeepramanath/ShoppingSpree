@@ -14,3 +14,4 @@ Following features are part of this application :
 6. Users can return a product
 7. Order history is also available
 8. User Profile would be available
+9. Search for products
