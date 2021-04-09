@@ -16,4 +16,4 @@ Following features are part of this application :
 8. User Profile would be available
 9. Search for products
 10. Filtering of products
-11. Sorting
+11. Sorting of products
