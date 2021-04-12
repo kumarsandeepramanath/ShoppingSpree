@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload This file will be
-          deleted.
+          deleted. Boiler plate code to be removed
         </p>
         <a
           className="App-link"
