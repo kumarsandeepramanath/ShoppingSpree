@@ -8,7 +8,7 @@ Concepts of ReactHooks would be used.
 Following features are part of this application :
 
 1. # Shopping List
-   #========
+   #=============
 2. Individual Item
 3. Cart
 4. Favorites
